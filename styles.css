@@ -1,2 +1,11 @@
-
+.holder{
+	display:flex;
+	justify-content:space-evenly;
+	flex-flow:row wrap;
+	width:200px;
+}
+.inside{
+	width:50px;
+	background-color:green;
+}
 /* Your CSS Code here. */
